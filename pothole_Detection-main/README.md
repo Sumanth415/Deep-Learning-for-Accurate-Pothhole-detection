@@ -103,8 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✍️ Author
 
-**Nalipi Sridhar Reddy**  
-📧 [sridharreddy7831@gmail.com](mailto:sridharreddy7831@gmail.com)  
+**Gangireddy Sumanth Reddy**  
+📧 [sumanthr447@gmail.com](mailto:sumanthr447@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sridharreddy7831)
 
 ## 📷 Sample Output
